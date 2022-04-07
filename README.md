@@ -11,7 +11,8 @@ Enabling Hive features with querying and optimizations where the main focal poin
 
 ## Features
 - Interactive CLI menu
-- User login and permission levels
+- User login requirement
+- User Permission levels
 - Create users, Read user list, Update passwords, Delete user accounts
 - Create, Read, and Delete tables
 - Run 6 built-in queries on a Wine Quality Dataset https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
